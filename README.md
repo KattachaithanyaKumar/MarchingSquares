@@ -6,3 +6,7 @@ Marching squares is a computer graphics algorithm that generates contours for a 
 
 
 Instructions to use:
+1. download the zip file
+2. unzip the files
+3. open the pde file using processing(download processing here https://processing.org/download)
+4. click on run
